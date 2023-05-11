@@ -2,6 +2,7 @@ public class Board {
     private Cell[][] grid;
     Board(){
         grid = new Cell[8][8];
+
     }
     public boolean placeShip(Ship ship){
         return true;

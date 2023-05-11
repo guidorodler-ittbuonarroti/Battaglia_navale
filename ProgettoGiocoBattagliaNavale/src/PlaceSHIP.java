@@ -1,6 +1,10 @@
 import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
-public class PlaceSHIP {
+public class PlaceSHIP extends JFrame {
+
     private JPanel pnlPannello;
     private JButton button1;
     private JButton button2;
@@ -64,6 +68,30 @@ public class PlaceSHIP {
     private JLabel lblAction;
 
     PlaceSHIP(){
+        setContentPane(pnlPannello);
+        setTitle("Welcome");
+        setSize(900,600);
+        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        setVisible(true);
+        ArrayList<Cell> doppia = new ArrayList<Cell>();//mi serve per memorizzare
 
+        button1.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                int row =1;
+                int col = 1;
+                Cell cella = new Cell(row,col);
+
+
+            }
+        });
+        button2.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                int row = 1;
+                int col = 1;
+                Cell cella = new Cell(row,col);
+            }
+        });
     }
 }

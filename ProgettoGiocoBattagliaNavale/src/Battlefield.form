@@ -610,7 +610,7 @@
         </constraints>
         <properties>
           <foreground color="-4520960"/>
-          <text value="Azione corrente"/>
+          <text value="Attacca!"/>
         </properties>
       </component>
       <component id="4f499" class="javax.swing.JLabel">
