@@ -1,4 +1,7 @@
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Battlefield extends JFrame {
     private JPanel pnlPannello;
@@ -65,8 +68,29 @@ public class Battlefield extends JFrame {
     Battlefield(){
         setContentPane(pnlPannello);
         setTitle("Welcome");
-        setSize(600,600);
+        setSize(900,600);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setVisible(true);
+
+        button1.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                button1.setBackground(Color.RED);
+            }
+        });
+
+        button2.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                button2.setBackground(Color.BLUE);
+            }
+        });
+        btnProsegui.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                dispose();
+                Battlefield campo = new Battlefield();
+            }
+        });
     }
 }
