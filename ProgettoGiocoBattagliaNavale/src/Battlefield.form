@@ -14,7 +14,7 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="f8df7" class="javax.swing.JButton" binding="button2" default-binding="true">
@@ -23,268 +23,268 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="8a536" class="javax.swing.JButton" binding="button3" default-binding="true">
+      <component id="8a536" class="javax.swing.JButton" binding="casellaButton" default-binding="true">
         <constraints>
           <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="3b689" class="javax.swing.JButton" binding="button4" default-binding="true">
+      <component id="3b689" class="javax.swing.JButton" binding="casellaButton1" default-binding="true">
         <constraints>
           <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="e6b15" class="javax.swing.JButton" binding="button5" default-binding="true">
+      <component id="e6b15" class="javax.swing.JButton" binding="casellaButton2" default-binding="true">
         <constraints>
           <grid row="2" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="9b764" class="javax.swing.JButton" binding="button6" default-binding="true">
+      <component id="9b764" class="javax.swing.JButton" binding="casellaButton3" default-binding="true">
         <constraints>
           <grid row="2" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="b30e7" class="javax.swing.JButton" binding="button7" default-binding="true">
+      <component id="b30e7" class="javax.swing.JButton" binding="casellaButton4" default-binding="true">
         <constraints>
           <grid row="2" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="359e" class="javax.swing.JButton" binding="button8" default-binding="true">
+      <component id="359e" class="javax.swing.JButton" binding="casellaButton5" default-binding="true">
         <constraints>
           <grid row="2" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="eec56" class="javax.swing.JButton" binding="button9" default-binding="true">
+      <component id="eec56" class="javax.swing.JButton" binding="casellaButton6" default-binding="true">
         <constraints>
           <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="6701f" class="javax.swing.JButton" binding="button10" default-binding="true">
+      <component id="6701f" class="javax.swing.JButton" binding="casellaButton7" default-binding="true">
         <constraints>
           <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="851db" class="javax.swing.JButton" binding="button11" default-binding="true">
+      <component id="851db" class="javax.swing.JButton" binding="casellaButton8" default-binding="true">
         <constraints>
           <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="6017" class="javax.swing.JButton" binding="button12" default-binding="true">
+      <component id="6017" class="javax.swing.JButton" binding="casellaButton9" default-binding="true">
         <constraints>
           <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="115ef" class="javax.swing.JButton" binding="button13" default-binding="true">
+      <component id="115ef" class="javax.swing.JButton" binding="casellaButton10" default-binding="true">
         <constraints>
           <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="9809e" class="javax.swing.JButton" binding="button14" default-binding="true">
+      <component id="9809e" class="javax.swing.JButton" binding="casellaButton11" default-binding="true">
         <constraints>
           <grid row="8" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="7a06a" class="javax.swing.JButton" binding="button15" default-binding="true">
+      <component id="7a06a" class="javax.swing.JButton" binding="casellaButton12" default-binding="true">
         <constraints>
           <grid row="9" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="7e9ad" class="javax.swing.JButton" binding="button16" default-binding="true">
+      <component id="7e9ad" class="javax.swing.JButton" binding="casellaButton13" default-binding="true">
         <constraints>
           <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="92687" class="javax.swing.JButton" binding="button17" default-binding="true">
+      <component id="92687" class="javax.swing.JButton" binding="casellaButton14" default-binding="true">
         <constraints>
           <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="78578" class="javax.swing.JButton" binding="button18" default-binding="true">
+      <component id="78578" class="javax.swing.JButton" binding="casellaButton15" default-binding="true">
         <constraints>
           <grid row="3" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="1a75b" class="javax.swing.JButton" binding="button19" default-binding="true">
+      <component id="1a75b" class="javax.swing.JButton" binding="casellaButton16" default-binding="true">
         <constraints>
           <grid row="3" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="2af1" class="javax.swing.JButton" binding="button20" default-binding="true">
+      <component id="2af1" class="javax.swing.JButton" binding="casellaButton17" default-binding="true">
         <constraints>
           <grid row="3" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="69a6f" class="javax.swing.JButton" binding="button21" default-binding="true">
+      <component id="69a6f" class="javax.swing.JButton" binding="casellaButton18" default-binding="true">
         <constraints>
           <grid row="3" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="c0dc5" class="javax.swing.JButton" binding="button22" default-binding="true">
+      <component id="c0dc5" class="javax.swing.JButton" binding="casellaButton19" default-binding="true">
         <constraints>
           <grid row="3" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="26bb2" class="javax.swing.JButton" binding="button23" default-binding="true">
+      <component id="26bb2" class="javax.swing.JButton" binding="casellaButton20" default-binding="true">
         <constraints>
           <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="cdb04" class="javax.swing.JButton" binding="button24" default-binding="true">
+      <component id="cdb04" class="javax.swing.JButton" binding="casellaButton21" default-binding="true">
         <constraints>
           <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="934e9" class="javax.swing.JButton" binding="button25" default-binding="true">
+      <component id="934e9" class="javax.swing.JButton" binding="casellaButton22" default-binding="true">
         <constraints>
           <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="32224" class="javax.swing.JButton" binding="button26" default-binding="true">
+      <component id="32224" class="javax.swing.JButton" binding="casellaButton23" default-binding="true">
         <constraints>
           <grid row="4" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="7d7e4" class="javax.swing.JButton" binding="button27" default-binding="true">
+      <component id="7d7e4" class="javax.swing.JButton" binding="casellaButton24" default-binding="true">
         <constraints>
           <grid row="4" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="8d272" class="javax.swing.JButton" binding="button28" default-binding="true">
+      <component id="8d272" class="javax.swing.JButton" binding="casellaButton25" default-binding="true">
         <constraints>
           <grid row="4" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="815d9" class="javax.swing.JButton" binding="button29" default-binding="true">
+      <component id="815d9" class="javax.swing.JButton" binding="casellaButton26" default-binding="true">
         <constraints>
           <grid row="4" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="c5f9d" class="javax.swing.JButton" binding="button30" default-binding="true">
+      <component id="c5f9d" class="javax.swing.JButton" binding="casellaButton27" default-binding="true">
         <constraints>
           <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="dc57a" class="javax.swing.JButton" binding="button31" default-binding="true">
+      <component id="dc57a" class="javax.swing.JButton" binding="casellaButton28" default-binding="true">
         <constraints>
           <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="9f9e9" class="javax.swing.JButton" default-binding="true">
@@ -293,7 +293,7 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="f7e7c" class="javax.swing.JButton" default-binding="true">
@@ -302,7 +302,7 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="6a496" class="javax.swing.JButton" default-binding="true">
@@ -311,7 +311,7 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="6c107" class="javax.swing.JButton" default-binding="true">
@@ -320,7 +320,7 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="a30e9" class="javax.swing.JButton" default-binding="true">
@@ -329,7 +329,7 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="2bb31" class="javax.swing.JButton" default-binding="true">
@@ -338,7 +338,7 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="fbf3a" class="javax.swing.JButton" default-binding="true">
@@ -347,241 +347,241 @@
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="853e5" class="javax.swing.JButton" binding="button32" default-binding="true">
+      <component id="853e5" class="javax.swing.JButton" binding="casellaButton29" default-binding="true">
         <constraints>
           <grid row="6" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="210a2" class="javax.swing.JButton" binding="button33" default-binding="true">
+      <component id="210a2" class="javax.swing.JButton" binding="casellaButton30" default-binding="true">
         <constraints>
           <grid row="6" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="3723b" class="javax.swing.JButton" binding="button34" default-binding="true">
+      <component id="3723b" class="javax.swing.JButton" binding="casellaButton31" default-binding="true">
         <constraints>
           <grid row="6" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="4a718" class="javax.swing.JButton" binding="button35" default-binding="true">
+      <component id="4a718" class="javax.swing.JButton" binding="casellaButton32" default-binding="true">
         <constraints>
           <grid row="6" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="24c50" class="javax.swing.JButton" binding="button36" default-binding="true">
+      <component id="24c50" class="javax.swing.JButton" binding="casellaButton33" default-binding="true">
         <constraints>
           <grid row="6" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="ad0d1" class="javax.swing.JButton" binding="button37" default-binding="true">
+      <component id="ad0d1" class="javax.swing.JButton" binding="casellaButton34" default-binding="true">
         <constraints>
           <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="97ecb" class="javax.swing.JButton" binding="button38" default-binding="true">
+      <component id="97ecb" class="javax.swing.JButton" binding="casellaButton35" default-binding="true">
         <constraints>
           <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="a79cf" class="javax.swing.JButton" binding="button39" default-binding="true">
+      <component id="a79cf" class="javax.swing.JButton" binding="casellaButton36" default-binding="true">
         <constraints>
           <grid row="7" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="d0b94" class="javax.swing.JButton" binding="button40" default-binding="true">
+      <component id="d0b94" class="javax.swing.JButton" binding="casellaButton37" default-binding="true">
         <constraints>
           <grid row="7" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="b9de1" class="javax.swing.JButton" binding="button41" default-binding="true">
+      <component id="b9de1" class="javax.swing.JButton" binding="casellaButton38" default-binding="true">
         <constraints>
           <grid row="7" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="fc08c" class="javax.swing.JButton" binding="button42" default-binding="true">
+      <component id="fc08c" class="javax.swing.JButton" binding="casellaButton39" default-binding="true">
         <constraints>
           <grid row="7" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="e9583" class="javax.swing.JButton" binding="button43" default-binding="true">
+      <component id="e9583" class="javax.swing.JButton" binding="casellaButton40" default-binding="true">
         <constraints>
           <grid row="7" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="b87c" class="javax.swing.JButton" binding="button44" default-binding="true">
+      <component id="b87c" class="javax.swing.JButton" binding="casellaButton41" default-binding="true">
         <constraints>
           <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="208d7" class="javax.swing.JButton" binding="button45" default-binding="true">
+      <component id="208d7" class="javax.swing.JButton" binding="casellaButton42" default-binding="true">
         <constraints>
           <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="ed55b" class="javax.swing.JButton" binding="button46" default-binding="true">
+      <component id="ed55b" class="javax.swing.JButton" binding="casellaButton43" default-binding="true">
         <constraints>
           <grid row="8" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="3c649" class="javax.swing.JButton" binding="button47" default-binding="true">
+      <component id="3c649" class="javax.swing.JButton" binding="casellaButton44" default-binding="true">
         <constraints>
           <grid row="8" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="d5b56" class="javax.swing.JButton" binding="button48" default-binding="true">
+      <component id="d5b56" class="javax.swing.JButton" binding="casellaButton45" default-binding="true">
         <constraints>
           <grid row="8" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="6bf1" class="javax.swing.JButton" binding="button49" default-binding="true">
+      <component id="6bf1" class="javax.swing.JButton" binding="casellaButton46" default-binding="true">
         <constraints>
           <grid row="8" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="61807" class="javax.swing.JButton" binding="button50" default-binding="true">
+      <component id="61807" class="javax.swing.JButton" binding="casellaButton47" default-binding="true">
         <constraints>
           <grid row="8" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="57abb" class="javax.swing.JButton" binding="button51" default-binding="true">
+      <component id="57abb" class="javax.swing.JButton" binding="casellaButton48" default-binding="true">
         <constraints>
           <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="4605" class="javax.swing.JButton" binding="button52" default-binding="true">
+      <component id="4605" class="javax.swing.JButton" binding="casellaButton49" default-binding="true">
         <constraints>
           <grid row="9" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="12c8b" class="javax.swing.JButton" binding="button53" default-binding="true">
+      <component id="12c8b" class="javax.swing.JButton" binding="casellaButton50" default-binding="true">
         <constraints>
           <grid row="9" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="76589" class="javax.swing.JButton" binding="button54" default-binding="true">
+      <component id="76589" class="javax.swing.JButton" binding="casellaButton51" default-binding="true">
         <constraints>
           <grid row="9" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="aa6d5" class="javax.swing.JButton" binding="button55" default-binding="true">
+      <component id="aa6d5" class="javax.swing.JButton" binding="casellaButton52" default-binding="true">
         <constraints>
           <grid row="9" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="2941e" class="javax.swing.JButton" binding="button56" default-binding="true">
+      <component id="2941e" class="javax.swing.JButton" binding="casellaButton53" default-binding="true">
         <constraints>
           <grid row="9" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
-      <component id="585f6" class="javax.swing.JButton" binding="button57" default-binding="true">
+      <component id="585f6" class="javax.swing.JButton" binding="casellaButton54" default-binding="true">
         <constraints>
           <grid row="9" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <background color="-16739435"/>
-          <text value="Button"/>
+          <text value="Casella"/>
         </properties>
       </component>
       <component id="7ca55" class="javax.swing.JLabel" binding="crntPlayer">
@@ -615,7 +615,7 @@
       </component>
       <component id="4f499" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="1"/>
@@ -623,7 +623,7 @@
       </component>
       <component id="3d98" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="2"/>
@@ -631,7 +631,7 @@
       </component>
       <component id="81010" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="3"/>
@@ -639,7 +639,7 @@
       </component>
       <component id="a2623" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="4"/>
@@ -647,7 +647,7 @@
       </component>
       <component id="89f16" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="5"/>
@@ -655,7 +655,7 @@
       </component>
       <component id="25bfa" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="6"/>
@@ -663,7 +663,7 @@
       </component>
       <component id="a574a" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="7"/>
@@ -671,7 +671,7 @@
       </component>
       <component id="e29e5" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="8"/>
