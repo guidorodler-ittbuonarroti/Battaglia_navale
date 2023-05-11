@@ -82,6 +82,7 @@ public class Battlefield extends JFrame {
         button2.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+
                 button2.setBackground(Color.BLUE);
             }
         });

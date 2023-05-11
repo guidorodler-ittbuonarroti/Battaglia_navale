@@ -4,17 +4,17 @@ import java.awt.event.ActionListener;
 
 public class Start extends JFrame {
     private JPanel pnlPannello;
-    private JTextField textField2;
-    private JLabel lblTitolo;
+    private JTextField txtPlayer2;
     private JButton btnInizia;
-    private JTextField textField3;
+    private JTextField txtPlayer1;
     private JLabel NomeGiocatore1;
     private JLabel NomeGiocatore2;
+    private JLabel lblTitolo;
 
     Start(){
         setContentPane(pnlPannello);
         setTitle("Welcome");
-        setSize(600,600);
+        setSize(800,600);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setVisible(true);
 
@@ -26,6 +26,8 @@ public class Start extends JFrame {
                 Battlefield campo = new Battlefield();
             }
         });
+
+
 
     }
 
