@@ -1,16 +1,20 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class BattelfieldGrid extends JFrame {
     private JPanel pnlButtons;
     private JPanel pnlTitle;
     private JPanel pnlBottom;
+    private JLabel lblTitle;
     static Board tabella;
     BattelfieldGrid(){
         setTitle("Partita");
-        setSize(1200, 1400);
+        setSize(900, 800);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
+        setVisible(true);
 
         tabella = new Board();
         Cell[][] grid = tabella.getGrid();
@@ -22,10 +26,23 @@ public class BattelfieldGrid extends JFrame {
 
         for (int i = 0;i< rows; i++){
             for (int j=0; j<rows; j++){
-                JButton button= new JButton();
-                button.setPreferredSize(new Dimension(100,100));
+                JButton btn = new JButton();
+                btn.setPreferredSize(new Dimension(100,100));
+                btn.setBorder(BorderFactory.createLineBorder(Color.BLACK));
+                btn.addActionListener(new ActionListener() {
+                    @Override
+                    public void actionPerformed(ActionEvent e) {
+                        btn.setBackground(Color.red);
 
+                    }
+                });
+                pnlButtons.add(btn);//va aggiunto ogni volta al pannelo
             }
+
         }
+        add(pnlButtons);//si aggiunge al pannello centrale
+        pack();
+        setLocationRelativeTo(null);
+        setVisible(true);
     }
 }
