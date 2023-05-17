@@ -7,17 +7,19 @@ public class PlaceShips extends JFrame {
     private JPanel pnPannello;
     private JPanel pnlGrid;
     private JPanel pnlTitle;
+    private JPanel pnlBottom;
+    private JButton btnNext;
+    private JLabel lblTitle;
     static int counter;//mi serve per verificare il numero di navi inserite
     static Cell currentCell;
     PlaceShips(){
-        setContentPane(pnPannello);
         setTitle("Piazza navi:"+Start.giuoco.getCurrentPlayer());
         setSize(900, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setVisible(true);
 
-        pnlGrid = new JPanel();
+
         Board tabella = Start.giuoco.getCurrentBoard();
         Cell[][] grid = tabella.getGrid();
         int rows = grid.length;
@@ -50,7 +52,7 @@ public class PlaceShips extends JFrame {
             pnlGrid.add(btn);
             }
         }
-        //add(pnlGrid);//si aggiunge al pannello centrale
+        add(pnlGrid);//si aggiunge al pannello centrale
         pack();
         setLocationRelativeTo(null);
         setVisible(true);

@@ -29,7 +29,7 @@ public class Start extends JFrame {
                 giuoco.StartGame();
                 dispose();
                 PlaceShips campo = new PlaceShips();
-                InsertionManager insertManager = new InsertionManager();
+                InsertionManager manager = new InsertionManager();
             }
         });
 
