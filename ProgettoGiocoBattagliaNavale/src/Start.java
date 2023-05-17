@@ -20,25 +20,24 @@ public class Start extends JFrame {
 
         Player player1=null;
         Player player2=null;
-        giuoco= new BattleShipGame(player1,player2);
+        giuoco= new BattleShipGame("mario","giulio");
 
 
         btnInizia.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                giuoco.StartGame();
                 dispose();
-                Battlefield campo = new Battlefield();
-                BattelfieldGrid campo2 = new BattelfieldGrid();
+                PlaceShips campo = new PlaceShips();
+                InsertionManager insertManager = new InsertionManager();
             }
         });
 
-
-
     }
-
 
     public static void main(String[] args) {
         Start gioco = new Start();
+
     }
 }
 

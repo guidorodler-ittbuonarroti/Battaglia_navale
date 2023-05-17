@@ -9,6 +9,7 @@ public class BattelfieldGrid extends JFrame {
     private JPanel pnlBottom;
     private JLabel lblTitle;
     static Board tabella;
+    static Cell currentCell;
     BattelfieldGrid(){
         setTitle("Partita");
         setSize(900, 800);
@@ -29,6 +30,7 @@ public class BattelfieldGrid extends JFrame {
                 JButton btn = new JButton();
                 btn.setPreferredSize(new Dimension(100,100));
                 btn.setBorder(BorderFactory.createLineBorder(Color.BLACK));
+                btn.setBackground(Color.WHITE);
                 btn.addActionListener(new ActionListener() {
                     @Override
                     public void actionPerformed(ActionEvent e) {
