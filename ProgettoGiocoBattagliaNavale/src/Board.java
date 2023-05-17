@@ -4,8 +4,8 @@ public class Board {
         grid = new Cell[8][8];
 
     }
-    public void placeShip(Ship ship){
-
+    public void placeShip(Cell ship){
+            grid[ship.getRow()][ship.getCol()].setState("ship");//li passo uno alla volta che è piu semplice
     }
     public boolean isHit(Move move){
         if (grid[move.getRow()][move.getCol()].getState().equalsIgnoreCase("ship")){
