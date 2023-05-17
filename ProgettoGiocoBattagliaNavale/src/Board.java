@@ -4,14 +4,24 @@ public class Board {
         grid = new Cell[8][8];
 
     }
-    public boolean placeShip(Ship ship){
-        return true;
+    public void placeShip(Ship ship){
+
     }
     public boolean isHit(Move move){
-        return true;
+        if (grid[move.getRow()][move.getCol()].getState().equalsIgnoreCase("ship")){
+            grid[move.getRow()][move.getCol()].setState("hit");
+            return true;
+        }else {
+            return false;
+        }
     }
     public boolean isMiss(Move move){
-        return false;
+        if (grid[move.getRow()][move.getCol()].getState().equalsIgnoreCase("water")){
+            grid[move.getRow()][move.getCol()].setState("miss");
+            return true;
+        }else {
+            return false;
+        }
 
     }
     public void setHIt(Move move){
@@ -24,9 +34,7 @@ public class Board {
             grid[move.getCol()][move.getRow()].setState("miss");
         }
     }
-    public boolean isShipPlaced(Ship ship){
-        return true;
-    }
+
     public Cell[][] getGrid(){
         return grid;
     }

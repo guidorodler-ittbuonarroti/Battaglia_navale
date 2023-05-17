@@ -4,6 +4,7 @@ public class Cell {
     private String state;
 
     Cell(int row,int col){
+        state ="water"; //4 stati water,ship,hit,miss
         this.row=row;
         this.col=col;
     }

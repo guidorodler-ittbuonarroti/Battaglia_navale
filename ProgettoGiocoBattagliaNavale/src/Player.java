@@ -11,10 +11,12 @@ public class Player {
     public String getName(){
         return name;
     }
-    public boolean placeShip(Ship ship){
-        return false;
+    public void placeShip(Ship ship){
+        ships.add(ship);
     }
     public void makeMove(Move move,Board opponentBoard){
+        opponentBoard.setMiss(move);//richiamo due volte per disperazione
+        opponentBoard.setHIt(move);
 
     }
 }
